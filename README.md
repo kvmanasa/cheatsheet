@@ -1,1 +1,1 @@
-## References of Devops are
+## References of Devops
